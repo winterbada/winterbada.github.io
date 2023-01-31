@@ -16,13 +16,13 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Winter Bada"
+title: "Winter BADA"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "Bada"
-description: "Game & Django"
-url: "https://winterbada.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "/blog" # the subpath of your site, e.g. "/blog"
+name: "BADA"
+description: "An amazing website."
+url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -41,7 +41,7 @@ comments:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
   utterances:
-    theme: "github-dark" # "github-light" (default), "github-dark"
+    theme: # "github-light" (default), "github-dark"
     issue_term: # "pathname" (default)
   giscus:
     repo_id: # Shown during giscus setup at https://giscus.app
@@ -59,8 +59,8 @@ reCaptcha:
 atom_feed:
   path: # blank (default) uses feed.xml
   hide: # true, false (default)
-search: # false (default)
-search_full_content: # false (default)
+search: # true, false (default)
+search_full_content: # true, false (default)
 search_provider: # lunr (default), algolia, google
 lunr:
   search_within_pages: # true, false (default)
@@ -104,51 +104,51 @@ analytics:
 # Site Author
 author:
   name: "Bada"
-  avatar: "/assets/images/rust.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/rust.png" #path of avatar image, e.g.
   bio: "I am an **amazing** person."
   location: "Somewhere"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:nonodoin22@gmail.com"
-    # - label: "Website"
-    #   icon: "fas fa-fw fa-link"
-    #   url: "https://winterbada.github.io/blog/"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   url: "https://facebook.com/"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url:
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   url:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/winterbada"
-    # - label: "GitLab"
-    #   icon: "fab fa-fw fa-gitlab"
-    #   url:
-    # - label: "Bitbucket"
-    #   icon: "fab fa-fw fa-bitbucket"
-    #   url:
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url:
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
 
 # Reading Files
 include:
