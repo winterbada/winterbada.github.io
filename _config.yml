@@ -266,7 +266,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
+date_format: "%Y-%m-%d"
 # Defaults
 defaults:
   # _posts
@@ -275,7 +275,6 @@ defaults:
       type: posts
     values:
       show_date: true
-      date_format: "%Y-%m-%d"
       layout: single
       author_profile: true
       read_time: true
