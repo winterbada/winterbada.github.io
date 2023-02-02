@@ -1,3 +1,10 @@
+---
+layout: single
+title: "vue.js .prettierrc option"
+---
+
+
+
 # Vue.js root directory  .prettierrc option
 
 ```
