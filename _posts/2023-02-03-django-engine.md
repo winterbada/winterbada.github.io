@@ -1,15 +1,12 @@
 ---
 layout: single
-title: "block contents"
+title: "Django block contents"
 ---
 
 
-# Django template, block contents
-
-
+# Django template, block_contents
 
 #### base.html
-
 
 
 ```
