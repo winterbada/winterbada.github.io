@@ -1,20 +1,13 @@
 ---
-
 layout: single
-
-title: "Django block"
-
+title: "Django template"
 ---
 
 
 
 # Django template contents
 
-
-
 #### base.html
-
-
 
 ```
 {% block contents %}
@@ -22,11 +15,7 @@ title: "Django block"
 {% endblock %}
 ```
 
-
-
 #### others.html
-
-
 
 ```
 {% extends "base.html" %}
@@ -36,7 +25,5 @@ title: "Django block"
 --------self----------
 {% endblock %}
 ```
-
-
 
 #### common (head+footer) make base.html
