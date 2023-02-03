@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Django template"
 ---
 
@@ -9,21 +9,23 @@ title: "Django template"
 
 #### base.html
 
+
+
 ```
-{% block contents %}
+{% raw %}{% block contents %}
 -------others_input----------
-{% endblock %}
+{% endblock %}{% endraw %}
 ```
 
 #### others.html
 
 ```
-{% extends "base.html" %}
+{% raw %}{% extends "base.html" %}{% endraw %}
 
 
-{% block contents %}
+{% raw %}{% block contents %}
 --------self----------
-{% endblock %}
+{% endblock %}{% endraw %}
 ```
 
 #### common (head+footer) make base.html
