@@ -16,18 +16,18 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "ko-KR"
-title: "HOME"
+title: "겨울바다"
 title_separator: "|"
 subtitle: "Feel so Happy" # site tagline that appears below site title in masthead
 name: "BADA"
 description: "겨울바다의 블로그"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://winterbada.github.io" # the base hostname & protocol for your site e.g. 
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: "/assets/images/500x300.png" # path of fallback teaser image, e.g. 
 logo: "/assets/images/88x88.png" # path of logo image to display in the masthead, e.g. 
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -105,8 +105,8 @@ analytics:
 author:
   name: "Bada"
   avatar: "/assets/images/rust.png" #path of avatar image, e.g.
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  bio: "겨울바다의 블로그"
+  location: "South Korea"
   email:
   links:
     - label: "Email"
