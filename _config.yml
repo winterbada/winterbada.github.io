@@ -109,10 +109,10 @@ author:
   location: "South Korea"
   email:
   links:
-      - label: "Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://winterbada.github.io"
-      - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/winterbada"
     # - label: "Email"
@@ -133,7 +133,7 @@ author:
 # Site Footer
 footer:
   links:
-      - label: "GitHub"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/winterbada"
     # - label: "Twitter"
