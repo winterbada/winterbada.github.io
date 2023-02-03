@@ -3,6 +3,7 @@ layout: single
 title: "block contents"
 ---
 
+
 # Django template, block contents
 
 
