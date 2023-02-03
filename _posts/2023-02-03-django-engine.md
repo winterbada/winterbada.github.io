@@ -1,12 +1,19 @@
 ---
+
 layout: single
-title: "Django block contents"
+
+title: "Django block"
+
 ---
 
 
-# Django template, block_contents
+
+# Django template, block contents
+
+
 
 #### base.html
+
 
 
 ```
@@ -14,8 +21,6 @@ title: "Django block contents"
 -------others_input----------
 {% endblock %}
 ```
-
-
 
 
 
@@ -34,4 +39,4 @@ title: "Django block contents"
 
 
 
-#### common (head + footer) make base.html
+#### common (head+footer) make base.html
