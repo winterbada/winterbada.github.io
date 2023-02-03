@@ -3,6 +3,10 @@ layout: single
 title: "Django template"
 categories: django
 tag: template
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
 ---
 
 
