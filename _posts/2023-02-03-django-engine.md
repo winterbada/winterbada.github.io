@@ -8,7 +8,7 @@ title: "Django block"
 
 
 
-# Django template, block contents
+# Django template contents
 
 
 
