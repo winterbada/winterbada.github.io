@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Django template"
-categories: Django
+categories: django
+tag: template
 ---
 
 

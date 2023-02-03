@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "vue.js .prettierrc option"
+categories: vue
+tag: [vue, prettierrc]
 ---
 
 
