@@ -3,10 +3,6 @@ layout: single
 title: "vue.js .prettierrc option"
 categories: vue
 tag: [vue, prettierrc]
-toc: true
-author_profile: false
-sidebar:
-    nav: "docs"
 ---
 
 
