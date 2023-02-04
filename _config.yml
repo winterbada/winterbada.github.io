@@ -288,3 +288,5 @@ defaults:
       toc_sticky: true
       toc_label: List
       author_profile: false
+      sidebar:
+          nav: "docs"
