@@ -90,4 +90,4 @@ sensors
 
 - python3-pip, python3-tk, ubuntu-restricted-extras
 
-- usb-creater-gtk, neofetch
+- usb-creator-gtk, neofetch

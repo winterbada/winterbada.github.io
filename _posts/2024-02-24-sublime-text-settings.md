@@ -5,9 +5,9 @@ categories: linux
 tag: ubuntu
 ---
 
-sublime text Presferences-setting
+## sublime text Presferences-setting
 
-vi-mode "jj" key bindings
+## vi-mode "jj" key bindings
 
 ```
 {
@@ -37,7 +37,7 @@ vi-mode "jj" key bindings
 }
 
 
-키바인딩
+## 키바인딩
 
 {
     "keys":["j", "k"],
@@ -56,4 +56,4 @@ vi-mode "jj" key bindings
   "command": "toggle_side_bar"},    
 ```
 
-sublime text 설치후 세팅과 키바인딩 
+## sublime text 설치후 세팅과 키바인딩
