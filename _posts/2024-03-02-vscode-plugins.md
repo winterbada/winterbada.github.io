@@ -5,12 +5,12 @@ categories: linux
 tag: ubuntu
 ---
 ### vscode 설치
-    sudo apt install ./파일명
+- sudo apt install ./파일명
 
-- vm 모드 "jj" key escape   
+- vim 모드 "jj" key escape   
     Preference>Open User Settings(Jason)   
 
-```jason
+```
 "vim.insertModeKeyBindings": [
      {
          "before": ["j", "k"],
