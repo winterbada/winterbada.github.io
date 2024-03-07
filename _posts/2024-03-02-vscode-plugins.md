@@ -43,6 +43,9 @@ sudo apt-get update
 
 sudo apt-get install arc-theme
 ```
+![](/assets/images/theme.png)
+
+
 
 ### Ubuntu fonts 설치
 
