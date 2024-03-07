@@ -50,7 +50,7 @@ sudo apt-get install arc-theme
 ### Ubuntu fonts 설치
 
 ```
-sudo apt-get install fonts-nanum*
+sudo apt-get install fonts-nanum-gothic
 
 / fonts-naver-d2coding
 ```

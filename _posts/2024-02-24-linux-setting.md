@@ -21,14 +21,14 @@ sudo apt-get update
 sudo apt upgrade ibus-hangul
 ```
 
-- 기본 코덱 설치
+### 기본 코덱 설치
 
 ```
 sudo apt install ubuntu-restricted-extras
 sudo apt-get update
 ```
 
-- git 설치후 토큰 설정
+### git 설치후 토큰 설정
 
 ```
 sudo apt-git install git (패키지 리스트 업데이트)
