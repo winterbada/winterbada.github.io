@@ -5,7 +5,7 @@ categories: linux
 tag: ubuntu
 ---
 
-- 그래픽 카드 확인 및 설치
+### 그래픽 카드 확인 및 설치
 
 ```
 lspci | grep -E "NVIDIA"
@@ -17,7 +17,7 @@ sudo apt install nvidia-driver-535
 nvidia-smi
 ```
 
-- 방화벽 확인 및 설치
+### 방화벽 확인 및 설치
 
 ```
 ufw --version
@@ -38,7 +38,7 @@ sudo ufw deny 22/tcp
 
 ```
 
-- vim 설치 및 .vimrc 파일 설정
+### vim 설치 및 .vimrc 파일 설정
 
 ```
 sudo apt upgrade vim
@@ -62,7 +62,7 @@ set fencs=ucs-bom,utf-8,euc-kr
 imap jk <Esc>
 ```
 
-- 나눔 고딕 폰트 및 D2Conding 폰트 설치
+### 나눔 고딕 폰트 및 D2Conding 폰트 설치
 
 - ~/.local/share/fonts 디렉토리에 폰트복사
 
@@ -74,7 +74,7 @@ sudo fc-cache -f -v
 fc-list | grep "D2Coding"
 ```
 
-- cpu 온도 모니터링
+### cpu 온도 모니터링
 
 ```
 sudo apt-get install lm-sensors
