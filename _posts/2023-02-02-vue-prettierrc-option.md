@@ -7,7 +7,7 @@ tag: [vue, prettierrc]
 
 
 
-# Vue.js root directory  .prettierrc option
+### Vue.js root directory  .prettierrc option
 
 ```
 {
@@ -22,7 +22,7 @@ tag: [vue, prettierrc]
 
 
 
-# pakage.json change rule
+### pakage.json change rule
 
 
 
