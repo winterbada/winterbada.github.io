@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "리눅스 한글입력 ibus"
+title: "아치리눅스 한글입력 ibus"
 categories: linux
 tag: archlinux
 ---
