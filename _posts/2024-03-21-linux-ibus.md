@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "oh-my-zsh"
+title: "리눅스 한글입력 ibus"
 categories: linux
 tag: archlinux
 ---
@@ -29,6 +29,5 @@ export QT_IM_MODULE=ibus
 
 ibus-daemon -drx
 ```
-
 
 
